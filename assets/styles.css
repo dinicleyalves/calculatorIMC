@@ -1,0 +1,25 @@
+@charset "utf-8";
+*{margin: 0; padding: 0;}
+body{background: #FFF;}
+
+/* formulario */
+.span{font: 15px Arial, Helvetica, sans-serif; color: #fff; font-weight: bold;}
+.in{width: 450px; height: 20px; background: #fff; border-radius:5px; border: 0; }
+.f{border: 0;}
+.btn{width:80px; height:30px; border-radius:4px; background:#22ABF4; border:1px solid #FFF; float:right; margin-right:30px; margin-top:10px; font:13px Arial, Helvetica, sans-serif; color:#FFF; font-weight:bold;}
+.btn:hover{background:#FFF; color:#22ABF4; border:1px solid #22ABF4; cursor:pointer;}
+
+#content{width: 800px; height: auto; margin-top: 250px; margin-left: 150px;}
+/* logo */
+#logo{width: 270px; height: 160px; background-image: url(../img/logo.png); float: left;}
+
+/* calculadora */
+#calculadora{width: 500px; height: 192px; background-image: url(../img/form.png); background-repeat: no-repeat; float: right; padding-left: 15px; padding-top: 40px;}
+
+/* IMC */
+#imc{width: 100%; height: auto; paddind-left:100px;}
+#resultado h1{font: 20px Arial, Helvetica, sans-serif; font-weight: bold;color: #fff; margin-left: 50px;}
+#resultado h2{font: 20px Arial, Helvetica, sans-serif; font-weight: bold;color: #fff; margin-left: 50px;}
+
+/* calculadora */
+#resultado{width: 500px; height: 406px; background-image: url(../img/res.png); background-repeat: no-repeat; float: right; padding-left: 15px; padding-top: 40px;}
