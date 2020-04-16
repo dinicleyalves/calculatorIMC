@@ -1,2 +1,2 @@
-# calculcator-imc-php
+# calculator-imc-php
 Calculator IMC wiht PHP
